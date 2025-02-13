@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy - ApneaPlan</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    
+    <h2>1. Data Collection</h2>
+    <p>We collect essential training data:</p>
+    <ul>
+        <li>Breath-hold duration records</li>
+        <li>Diaphragm contraction counts</li>
+        <li>Device model and OS version</li>
+    </ul>
+
+    <h2>2. Data Usage</h2>
+    <p>Data is used for:</p>
+    <ul>
+        <li>Generating training statistics</li>
+        <li>Improving algorithm accuracy</li>
+        <li>No third-party sharing</li>
+    </ul>
+
+    <h2>3. Data Storage</h2>
+    <p>All data is stored locally. Permanent deletion available via Settings → Clear Data</p>
+
+    <h2>4. Contact</h2>
+    <p>For privacy concerns: zhaoxingyu19931209@gmail.com</p>
+</body>
+</html>
